@@ -333,7 +333,7 @@ To grant another wallet the Issuer role:
 
 ## 👨‍💻 Author
 
-**Syed Maaz**  
+**Akash Saroj**  
 Final Year Project — Blockchain-Based Academic Certificate Verification System
 
 ---
